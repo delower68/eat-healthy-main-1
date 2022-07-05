@@ -1,0 +1,205 @@
+/* start-css */
+body{
+    font-family: 'Bree Serif', serif;
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+h1{
+    font-size: 60px;
+    font-weight: 900;
+    opacity: 80%;
+}
+p{
+    font-size: 20px;
+    opacity: 50%;
+}
+a{   
+    margin-top: -30px;
+}
+.botton{
+    background-color: tomato;
+    padding: 20px;
+    border-radius: 30px;
+    text-decoration: none;
+    font-weight: 500;
+    color: white;
+    margin-top: 100px;
+    font-size: 18px;
+}
+.yellow{
+    color: rgb(229, 78, 95);
+}
+.writing-Part{
+    margin-left: 100px;
+    margin-top: 200px;
+    width: 40%;
+    letter-spacing: -1px;
+}
+.Ful-Part-1{
+    display: flex;
+    width: 100%;
+}
+.img-part{
+    width: 60%;
+}
+.img-part img{
+    width: 100%;
+    margin-left: -80px;
+    padding: 30px;
+}
+/* second-part-start */
+.full-part-2{
+    display: flex;
+}
+.full-part-2{
+    background-image: url(images/shapes/7.png);
+}
+.img-part-1{
+    width: 60%;
+}
+.img-part-1 img{
+    width: 100%;
+    margin-left: -80px;
+    padding: 30px;
+}
+.writing-Part-1{
+    width: 40%;
+    padding-right: 250px;
+    margin-top: 150px;
+}
+.writing-Part-1 p{
+    text-align: justify;
+}
+h2{
+    font-weight: 900;
+    opacity: 80%;
+}
+.botton-2{
+    background-color: tomato;
+    padding: 20px;
+    border-radius: 30px;
+    text-decoration: none;
+    font-weight: 500;
+    color: white;
+    margin-top: 100px;
+    font-size: 18px;
+}
+/* second-middle-start */
+
+.second-middle h2{
+    opacity: 80%;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+}
+.second-middle p{
+    opacity: 90%;
+    text-align: center;
+    margin-left: 360px;
+    margin-right: 360px;
+}
+/* second-middle-finish */
+.recipe{
+    display: flex;
+    width: 100%;
+}
+.Both-recipe{
+    display: flex;
+    width: 100%;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 20px;
+}
+.recipe-1{
+    width: 100%;
+    box-shadow: 10px 10px 40px rgb(203, 202, 202);
+    border-radius: 30px;
+    padding: 20px;
+}
+.recipe img{
+    width: 90%;
+    padding: 20px;
+}
+.recipe-2{
+    width: 100%;
+    box-shadow: 10px 10px 100px rgb(203, 202, 202);
+    border-radius: 30px;
+    padding: 20px;
+    margin-left: 30px;
+}
+.recipe h2{
+   margin-left: 20px;
+   opacity: 100%;
+}
+.recipe p{
+    margin-left: 20px;
+    opacity: 100%;
+ }
+ /* third-finish */
+ .rating{
+    margin-top: 100px;
+ }
+.rating-part{
+    display: flex;
+    width: 86%;
+    box-shadow: 10px 10px 100px rgb(47, 45, 45);
+    margin-left: 100px;
+    margin-right: 150px;
+    margin-top: 100px;
+    border-radius: 30px;
+   
+}
+.Subscribers{
+    text-align: center;
+    margin-left: 130px;
+}
+.Subscribers p{
+    margin-top: -40px;
+}
+.Followers{
+    margin-left:150px;
+
+}
+.Followers p{
+    margin-top: -40px;
+}
+.likes{
+    margin-left: 150px;
+}
+.likes p{
+    margin-top: -40px;
+}
+/* third-middle-finish */
+
+/* Footer-start */
+.last-part{
+    background-color: rgb(15, 15, 61);
+    width: 100%;
+    height: 250px;
+    margin-top: 100px;
+}
+/* .foot{
+    text-align: center;
+} */
+.yellow-1{
+    color: rgb(255, 183, 0);
+}
+.foot p{
+    color: white;
+    opacity: 100%;
+    font-weight: 200;
+    text-align: center;
+
+}
+.foot h2{
+    color: white;
+    text-align: center;
+    font-weight: 900;
+    font-size: 30px;
+
+}
+#footer-main{
+    margin-top: 50px
+}
+/* All-Done */
